@@ -24,7 +24,7 @@ I'm deeply interested in **AI**, **Machine Learning**, and **Python automation**
 ## Skill Stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,cs,html,cpp,react,unity,godot,spring,kotlin,androidstudio,swift,nginx,next,firebase,aws,figma,photoshop,pr,aftereffects,blender,illustrator,figma,xd,nodejs,git,github,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,cs,html,cpp,react,unity,unreal,godot,spring,kotlin,androidstudio,swift,nginx,next,firebase,aws,docker,figma,photoshop,pr,aftereffects,blender,illustrator,figma,xd,nodejs,git,github,vscode&theme=light)](https://skillicons.dev)
 
 **Also comfortable with:** JavaFX, REST APIs, Firebase, MySQL, and AI/ML tools (TensorFlow, OpenCV)
 
