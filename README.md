@@ -32,7 +32,7 @@ I'm deeply interested in **AI**, **Machine Learning**, and **Python automation**
 
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats -->
-![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehanGJ&show_icons=true&theme=tokyonight)
+![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehan-anujaya&show_icons=true&theme=tokyonight)
 
 ---
 
